@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+<ModulePrefs title="Papa’s Bakeria" />
+<Content type="html"><![CDATA[
+
+<object xmlns="http://www.w3.org/1999/xhtml" 
+data="https://cdn.jsdelivr.net/gh/h3sj7v2f6k/jd832xj4la@4dc989a1f0c396fef3b5b491612c973a1b0b174e/Papa%E2%80%99s%20Bakeria/papas-bakeria.swf" 
+height="100%" type="application/x-shockwave-flash" width="100%"><param name="movie" value="" />
+</object><script src="https://cdn.jsdelivr.net/gh/h3sj7v2f6k/ruffleswf@c51c3d65132f30d9ef0e571832ade4445b2d6606/ruffle.js"></script>
+]]></Content>
+</Module>
